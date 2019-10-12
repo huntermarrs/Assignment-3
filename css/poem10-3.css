@@ -1,0 +1,43 @@
+body {
+background-image: repeating-radial-gradient(#7abe72 , #e46b7c 5%, #e1ee75 20%);
+
+}
+.img {
+    background: #e97ed5;
+      padding:12px;
+      border:1px solid #999;
+      width: 300px;
+      height: 300px;
+      align: center;
+}
+h1 {
+ letter-spacing: 8px;
+ font-variant: small-caps;
+  outline: 3px dotted black;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+h2 {
+  letter-spacing: 2px;
+  font-variant: small-caps;
+  outline: 3px dotted black;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+h3 {
+  letter-spacing: 1px;
+  font-variant: small-caps;;
+  outline: 3px dotted black;
+    font-size: 25px;
+    margin-left: 450px;
+    margin-right: 450px;
+
+  }
+  .a {
+      margin-left: 475px;
+      line-height: 20px;
+      text-transform: uppercase;
+      font-weight: bolder;
+  }

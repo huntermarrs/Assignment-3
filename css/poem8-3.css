@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(to bottom right, #ed88d2, #f74b5d, #cb83fe);
+    line-height: 25px;
+}
+
+h1 {
+    letter-spacing: 8px;
+    font-family: 'Notable', sans-serif;
+    color: #dfd25f;
+}
+
+h2 {
+    letter-spacing: 2px;
+    font-family: 'Notable', sans-serif;
+    color: #dfd25f;
+}
+
+h3 {
+    letter-spacing: 8px;
+    font-family: 'Notable', sans-serif;
+    color: #dfd25f;
+}
+
+div.a {
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-family: 'Abril Fatface', cursive;
+    color: #26728b;
+}
+
+div.b {
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-family: 'Abril Fatface', cursive;
+    color: #26728b;
+}
+
+.questions {
+    font-family: 'Abril Fatface', cursive;
+    color: #53c99f;
+}

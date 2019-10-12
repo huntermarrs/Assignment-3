@@ -1,0 +1,32 @@
+body {
+    font-family: 'Turret Road', cursive;
+    background-color: #6ba4af;
+    margin: 5px;
+    letter-spacing: 10px;
+    text-align: center;
+}
+h1 {
+  letter-spacing: 8px;
+  color: #ffffff;
+
+
+}
+
+h2 {
+  letter-spacing: 2px;
+    border: 2px #cc87d9;
+    outline: 5px dotted #94e0ff;
+    color: #ffffff;
+}
+
+h3 {
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+div.a {
+  font-size: 50px;
+}
+
+div.b {
+  font-size: 25px;
+}

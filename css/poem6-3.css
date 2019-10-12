@@ -1,0 +1,46 @@
+
+body {
+
+font-family: 'Anton', sans-serif;
+background-image: linear-gradient(lightblue, yellow);
+}
+
+    h1 {
+  letter-spacing: 8px;
+  outline: 3px dotted yellow;
+}
+
+h2 {
+  letter-spacing: 2px;
+  outline: 5px dotted blue;
+
+}
+
+h3 {
+  letter-spacing: 1px;
+  outline: 3px dotted yellow;
+}
+div.a {
+  font-size: 75px;
+  line-height: 60px;
+}
+
+div.b {
+  font-size: 50px;
+  line-height: 40px;
+}
+div.c {
+  font-size: 25px;
+  line-height: 20px;
+}
+div.d {
+  font-size: 12px;
+  line-height: 10px;
+}
+div.e {
+  font-size: 10px;
+}
+.questions {
+    color: white;
+    text-shadow: 2px 2px 4px  #145093;
+}
