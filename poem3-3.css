@@ -1,0 +1,73 @@
+body {
+    font-family: 'Teko', sans-serif;
+font-size: 25px;
+line-height: 20px;
+}
+
+@media screen and (min-width: 400px) {
+  body {
+    background-color: #96b6ae; }
+      @import url('https://fonts.googleapis.com/css?family=Montserrat')
+      body {
+       background-color: white;
+      }
+
+      .title {
+       font-family: "Montserrat";
+       text-align: center;
+       color: #FFF;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       height: 10vh;
+       letter-spacing: 1px;
+      }
+      h1 {
+       background-image: url(https://media.giphy.com/media/3o6ZtbNm9UU8ETDaeY/source.gif);
+       background-size: cover;
+       color: transparent;
+       -moz-background-clip: text;
+       -webkit-background-clip: text;
+       text-transform: uppercase;
+       font-size: 50px;
+       line-height: .75;
+       margin: 10px 0;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: #d976a8; }
+    @import url('https://fonts.googleapis.com/css?family=Montserrat')
+    body {
+    	background-color: white;
+    }
+
+    .title {
+    	font-family: "Montserrat";
+    	text-align: center;
+    	color: #FFF;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
+    	justify-content: center;
+    	height: 10vh;
+    	letter-spacing: 1px;
+    }
+    h1 {
+    	background-image: url(https://media.giphy.com/media/3o6ZtbNm9UU8ETDaeY/source.gif);
+    	background-size: cover;
+    	color: transparent;
+    	-moz-background-clip: text;
+    	-webkit-background-clip: text;
+    	text-transform: uppercase;
+    	font-size: 50px;
+    	line-height: .75;
+    	margin: 10px 0;
+    }
+  }
+  @media print {
+  body { font-size: 10pt; }
+}
+}
